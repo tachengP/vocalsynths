@@ -1,6 +1,6 @@
 module.exports = {
-  title: "铭记我至山海倾覆",
-  description: 'Remember me till the destruction of the world.',
+  title: "藏声馆",
+  description: 'Remember my voice till the destruction of the world.',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -20,7 +20,7 @@ module.exports = {
       { text: '联系方式', 
         icon: 'reco-message',
         items: [
-          { text: 'Bilibili', link: 'https://space.bilibili.com/14471510', icon: 'reco-github' }
+          { text: 'Bilibili', link: 'https://space.bilibili.com/14471510', icon: 'reco-bilibili' }
         ]
       }
     ],
@@ -37,11 +37,11 @@ module.exports = {
     blogConfig: {
       category: {
         location: 2, // 在导航栏菜单中所占的位置，默认2
-        text: 'Category' // 默认 “分类”
+        text: '分类' // 默认 “分类”
       },
       tag: {
         location: 3, // 在导航栏菜单中所占的位置，默认3
-        text: 'Tag' // 默认 “标签”
+        text: '标签' // 默认 “标签”
       }
     },
     friendLink: [
@@ -51,12 +51,12 @@ module.exports = {
         email: '1156743527@qq.com',
         link: 'https://www.recoluan.com'
       },
-      {
+      /*{
         title: 'vuepress-theme-reco',
         desc: 'A simple and beautiful vuepress Blog & Doc theme.',
         avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         link: 'https://vuepress-theme-reco.recoluan.com'
-      },
+      },*/
     ],
     logo: '/logo.png',
     // 搜索设置
@@ -73,7 +73,7 @@ module.exports = {
     // 备案号
     // record: 'xxxx',
     // 项目开始时间
-    startYear: '2017'
+    startYear: '2019'
     /**
      * 密钥 (if your blog is private)
      */
