@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: 铭记我至山海倾覆
+tagline: Remember me till the destruction of the world.
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
