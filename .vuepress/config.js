@@ -11,12 +11,6 @@ module.exports = {
     nav: [
       { text: '主页', link: '/', icon: 'reco-home' },
       { text: '时间线', link: '/timeline/', icon: 'reco-date' },
-      { text: '文章', 
-        icon: 'reco-message',
-        items: [
-          { text: 'vuepress-reco', link: '/docs/theme-reco/' }
-        ]
-      },
       { text: '联系方式', 
         icon: 'reco-message',
         items: [
